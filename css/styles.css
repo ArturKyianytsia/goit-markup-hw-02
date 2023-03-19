@@ -59,6 +59,10 @@ body {
     color: #404bbf;
 }
 
+.header-item:hover {
+    color: #404bbf;
+}
+
 .header-address{
     font-style: normal;
 }
