@@ -60,7 +60,7 @@ body {
     
 }
 
-.header-link:is(hover,:focus) {
+.header-link:is(:hover,:focus) {
     color: #404bbf;
 }
 
