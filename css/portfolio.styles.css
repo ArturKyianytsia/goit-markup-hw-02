@@ -59,10 +59,11 @@ body {
 
 .header-address {
 font-style: normal;
+font-style: normal;
 }
 
 .address-list {
-
+list-style: none;
 }
 
 .address-item {
