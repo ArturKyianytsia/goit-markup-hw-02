@@ -49,7 +49,7 @@ body {
     color: #2E2F42;
 }
 
-.header-item:hover,.header-item:focus {
+.header-item:is(hover,:focus) {
     color: #404bbf;
 } 
 
