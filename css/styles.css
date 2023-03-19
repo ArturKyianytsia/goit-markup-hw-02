@@ -14,19 +14,11 @@ body {
 }
 
 .header {
-    width: 1440px;
-    height: 72px;
-    left: 0px;
-    top: 0px;
-    background: #FFFFFF;
-    border-bottom: 1px solid #E7E9FC;
+
 }
 
 .header-navigation {
-    width: 261px;
-    height: 24px;
-    left: 347px;
-    top: 24px;
+
 }
 .header-logo {
     font-family: "Raleway", sans-serif;
