@@ -60,6 +60,10 @@ body {
 }
 
 .header-link:hover {
+    color: #404bbf;
+}
+
+.header-link:hover {
     color: #404BBF;
 }
 
@@ -79,7 +83,7 @@ body {
 
 }
 
-.header-mail {
+.address {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -87,11 +91,11 @@ body {
     color: #434455;
 }
 
-.header-mail:hover {
+.address:hover {
     color: #404BBF;
 }
 
-.header-mail:focus {
+.address:focus {
     color: #404BBF;
 }
 
