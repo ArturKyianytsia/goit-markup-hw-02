@@ -37,8 +37,8 @@ body {
     color: #2e2f42;
 }
 
-.header-list {
-
+.header-list:hover {
+    color: #404bbf;
 }
 
 .header-item {

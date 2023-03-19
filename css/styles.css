@@ -47,8 +47,8 @@ body {
 
 }
 
-.header-item {
-
+.header-item:hover {
+    color: #404BBF;
 }
 
 .header-link {
