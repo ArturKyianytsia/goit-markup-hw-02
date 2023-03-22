@@ -1,3 +1,10 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: var(--primery-text-color);
+    background-color: var(--color-title);
+    :root
+}
+
 :root {
     --primery-text-color:#434455;
     --title-text-color:#2E2F42;
@@ -5,13 +12,6 @@
     --color-title:#FFFFFF;
     --color-footer-text:#F4F4FD;
     --hover-and-focus-color:#404BBF;
-}
-
-body {
-    font-family: "Roboto", sans-serif;
-    color: var(--primery-text-color);
-    background-color: var(--color-title);
-    :root
 }
 
 .list {
